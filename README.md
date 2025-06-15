@@ -60,11 +60,11 @@ Special thanks to:
 
 God & Family – Always the first.
 
-[Gustavo Guanabara] (https://github.com/gustavoguanabara) – For his foundational free HTML/CSS course.
+[Gustavo Guanabara](https://github.com/gustavoguanabara) – For his foundational free HTML/CSS course.
 
-[Eric Onah] (https://github.com/EricOnah) – Whose Advanced CSS project served as visual inspiration.
+[Eric Onah](https://github.com/EricOnah) – Whose Advanced CSS project served as visual inspiration.
 
-Image sources – From [PxHere](https://pxhere.com/) and [Unsplash] (https://unsplash.com/), all properly credited in credits.html.
+Image sources – From [PxHere](https://pxhere.com/) and [Unsplash](https://unsplash.com/), all properly credited in credits.html.
 
 ---
 
