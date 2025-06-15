@@ -1,7 +1,7 @@
 Living Healthy 🌿
 
 Welcome to **Living Healthy**, a personal and responsive web project created entirely with **HTML5** and **CSS3**. This site is designed to inspire wellness, balance, and mindfulness through a clean layout, meaningful visuals, and thoughtful content.  
-You can explore the full experience live [here](https://github.com/joelbenevides).
+You can explore the full experience live [here](https://joelbenevides.github.io/living-healthy/index.html).
 
 ---
 
@@ -60,11 +60,11 @@ Special thanks to:
 
 God & Family – Always the first.
 
-Gustavo Guanabara – For his foundational free HTML/CSS course.
+[Gustavo Guanabara] (https://github.com/gustavoguanabara) – For his foundational free HTML/CSS course.
 
-Eric Onah – Whose Advanced CSS project served as visual inspiration.
+[Eric Onah] (https://github.com/EricOnah) – Whose Advanced CSS project served as visual inspiration.
 
-Image sources – From PxHere and Unsplash, all properly credited in credits.html.
+Image sources – From [PxHere](https://pxhere.com/) and [Unsplash] (https://unsplash.com/), all properly credited in credits.html.
 
 ---
 
