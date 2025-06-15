@@ -40,7 +40,7 @@ Use the code as a learning base or reference for building your own UI layouts.
    git clone https://github.com/joelbenevides/living-healthy
    
 2. Open the project folder:
-	cd living-healthy
+	living-healthy
 
 3. Open index.html in your browser to explore locally.
 
