@@ -1,0 +1,131 @@
+@charset "UTF-8";
+
+:root {
+  --verde-claro: #B2E5D2;
+  --verde-medio: #56C596;
+  --verde-escuro: #2F7760;
+
+  --dourado-claro: #F9E8B3;
+  --dourado: #D4AF37;
+  --dourado-escuro: #B08B2D;
+
+  --fundo: #FAFAF8;
+  --texto: #1C1C1C;
+  --destaque: #FFFFFF;
+}
+
+body {
+    display: block;
+}
+
+/*Main*/
+/*Section 1*/
+.section1 {
+    min-height: 200px;
+    height: 35vh;
+    max-height: 400px;
+    max-width: 1200px;
+    margin: auto;
+    position: relative;
+    padding-top: 5vh;
+}
+
+.section1 div {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-left: 5%;
+}
+
+.section1 h1 {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.section1 p {
+    text-align: justify;
+    margin: 10px auto;
+    position: relative;
+}
+/*-Section 1*/
+
+/*Section2*/
+main .margin {
+    display: block;
+    position: relative;
+}
+
+.section2 {
+    display: block;
+    margin-top: 30px;
+    height: 200px;
+    max-width: 1200px;
+}
+
+.sec-l{
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.sec-r{
+    text-align: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.l-img img {
+    position: absolute;
+    display: block;
+    left: 30px;
+}
+
+
+.r-img img {
+    position: absolute;
+    display: block;
+    right: 30px;
+}
+
+.c-img img{
+    box-sizing: content-box;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    z-index: 10;
+}
+
+
+.c-img:hover img{
+    z-index: 11;
+    transform: scale(1.3);
+    padding: 10px;
+    border: 10px solid var(--dourado-claro);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+    /*-Section2*/
+/*-Main*/
+
+footer {
+    margin-top: 24vh;
+}
+
+@media (max-width: 600px) { 
+/*Para telas menores que 600px*/
+/*Main*/
+    /*Section2*/
+    .section2 {
+        height: 220px;
+    }
+    
+}
+
+@media (max-width: 499px) { 
+/*Para telas menores que 499px*/
+/*Main*/
+    /*Section2*/
+    .section2 {
+        height: 120px;
+    }
+    
+}
