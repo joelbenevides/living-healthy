@@ -105,6 +105,10 @@ main .margin {
 }
     /*-Section2*/
 /*-Main*/
+#mf {
+    justify-content: center;
+    align-items: center;
+}
 
 footer {
     margin-top: 24vh;
