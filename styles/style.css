@@ -65,17 +65,17 @@
 }
 @font-face {
     font-family: 'lora';
-    src: url(../fonts/lora.otf) format('opentype'),
+    src: url(../fonts/lora.otf) format('opentype');
     src: url(../fonts/lora.ttf) format('truetype');
 }
 @font-face {
     font-family: 'quicksand';
-    src: url(../fonts/quicksand.otf) format('opentype'),
+    src: url(../fonts/quicksand.otf) format('opentype');
     src: url(../fonts/quicksand.ttf) format('truetype');
 }
 @font-face {
     font-family: 'poppins';
-    src: url(../fonts/poppins.otf) format('opentype'),
+    src: url(../fonts/poppins.otf) format('opentype');
     src: url(../fonts/poppins.ttf) format('truetype');
 }
 
