@@ -333,6 +333,7 @@ header p {
 #section1 h1 {
     color: var(--verde-escuro);
     max-width: fit-content;
+    font-size: 1.6em;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
 }
 
